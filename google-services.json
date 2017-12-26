@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "98782252216",
+    "firebase_url": "https://srchat-e4c1c.firebaseio.com",
+    "project_id": "srchat-e4c1c",
+    "storage_bucket": "srchat-e4c1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98782252216:android:0b373e0a7098786f",
+        "android_client_info": {
+          "package_name": "com.example.hp.sr_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98782252216-kk44k19c52pf99vs956b28smrp75i7d4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkGryCBGZrmyip4tQjzzR136PiEXKeL8o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
